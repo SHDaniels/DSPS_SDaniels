@@ -1,5 +1,6 @@
 In this homework, I worked with Tali and Paula for problem 1. We all discussed all the steps and coded next
-to each other so that we could discuss what commands to use. I worked by myself for problem 2. 
+to each other so that we could discuss what commands to use. I worked by myself for problem 2 but Sid helped with
+the curve fit!
 
 Each student must write a README file for their repository
 in the readme you must state in your own words
